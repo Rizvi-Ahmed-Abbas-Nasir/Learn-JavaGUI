@@ -4,12 +4,17 @@ import java.awt.*;
 
 public class GridLayoutSetPro {
 
+
+
+
+
 	public GridLayoutSetPro() {
 		JFrame frame = new JFrame();
 		GridBagLayout gb = new GridBagLayout();
 		GridBagConstraints gbc = new GridBagConstraints();
 		frame.setVisible(true);
 		frame.setSize(500,400);
+
 		frame.setLayout(gb);
 		
 		
