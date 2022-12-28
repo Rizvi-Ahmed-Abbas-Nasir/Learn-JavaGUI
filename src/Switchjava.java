@@ -1,8 +1,10 @@
 
 import java.awt.BorderLayout;
+import java.awt.Checkbox;
 import java.awt.FlowLayout;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.*;
 
 import javax.swing.*;
 
